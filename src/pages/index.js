@@ -1,5 +1,7 @@
 import React from "react"
+import Grid01 from "./components/grid-001"
+import "./components/style.css"
 
 export default function Home() {
-  return <div>Hello world!</div>
+  return <Grid01></Grid01>
 }
